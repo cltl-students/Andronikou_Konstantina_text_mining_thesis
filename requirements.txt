@@ -1,0 +1,38 @@
+
+Requirements
+
+Python Version 
+- Python 3.6.1 or later 
+Operating System: 
+- Windows 10
+
+Python modules:
+
+pip install pandas
+pip install numpy
+pip install nltk
+pip install gensim
+pip install csv
+pip install pycld2
+pip install string
+pip install codecs
+pip install cleantext
+pip install collections 
+pip install umap-learn
+pip install hdbscan
+pip install pyLDAvis
+pip install matplotlib
+pip install scipy
+pip install itertools
+pip install typing 
+pip install sklearn
+pip install sentence_transformers 
+pip install bertopic 
+pip install tqdm
+
+
+
+
+
+
+
