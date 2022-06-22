@@ -8,27 +8,29 @@ Operating System:
 
 Python modules:
 
-pip install pandas
-pip install numpy
-pip install nltk
-pip install gensim
-pip install csv
-pip install pycld2
-pip install string
-pip install codecs
-pip install cleantext
+pip install pandas == 1.1.5
+pip install numpy == 1.21.5
+pip install nltk == 3.7
+pip install ijson == 3.1.4
+pip install gensim == 4.1.2
+pip install csv == 1.0
+pip install pycld2 == 0.41
+pip install cleantext == 0.6.0
+pip install umap-learn == 0.5.2
+pip install hdbscan == 0.8.28
+pip install pyLDAvis == 3.2.2
+pip install matplotlib == 0.1.3
+pip install scipy == 1.7.3
+pip install lda2vec == 0.16.10
+pip install sentence_transformers == 2.2.0
+pip install bertopic == 0.9.4
+pip install scikit-learn == 0.24.2
+pip install tqdm == 4.64.0
+pip install typing
 pip install collections 
-pip install umap-learn
-pip install hdbscan
-pip install pyLDAvis
-pip install matplotlib
-pip install scipy
-pip install itertools
-pip install typing 
-pip install sklearn
-pip install sentence_transformers 
-pip install bertopic 
-pip install tqdm
+pip install string
+pip install itertools 
+pip install codecs
 
 
 
