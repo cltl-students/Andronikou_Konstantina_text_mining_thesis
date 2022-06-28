@@ -1,0 +1,7 @@
+{"index": "9s023d-10i90-4850e-conversations", 
+    "_id": "1278bf-429a-9d3",
+     "_source": {"text": "Hello, I would like to book a fligh to Cyprus.",
+                 "type_label": "whatsapp",
+                 "sentences": [{"channel": "customer", 
+                               "message_type": "text", 
+                               "start_time": "2021-06-16-T13:04:35"}]}}
