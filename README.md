@@ -7,11 +7,11 @@ This thesis project focuses on the implementation of automatic retrieval of topi
 
 This project was supervised by Dr. Ilia Markov and Gabriele Catanese. 
 
-A greater explanation of this procedure can be found in the thesis report [**Thesis**] (https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/Andronikou_Konstantina_MA_Thesis.pdf)
+A greater explanation of this procedure can be found in the thesis report [**Thesis**](https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/Andronikou_Konstantina_MA_Thesis.pdf)
 
 ### FOLDERS 
 
-This repository [**Andronikou_Konstantina_text_mining_thesis**](https://github.com/KonstantinaAndronikou/Andronikou_Konstantina_text_mining_thesis-) consists of the following folders:
+This repository [**Andronikou_Konstantina_text_mining_thesis**](https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis) consists of the following folders:
 
 ## Data
 * `example_data.json` Example data based on the original dataset provide for this project.
