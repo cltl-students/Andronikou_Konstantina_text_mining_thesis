@@ -28,7 +28,7 @@ This repository [**Andronikou_Konstantina_text_mining_thesis**](https://github.c
 * `readme.md` This readme includes information related to the topic models and the error analysis.
 ## Prerequisites
 
-The requirements to run the provided code can be found in  [requirements.txt](https://github.com/KonstantinaAndronikou/Andronikou_Konstantina_text_mining_thesis/blob/main/requirements.txt)
+The requirements to run the provided code can be found in  [requirements.txt](https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/requirements.txt)
 
 ## References 
 
