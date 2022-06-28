@@ -7,7 +7,7 @@ This thesis project focuses on the implementation of automatic retrieval of topi
 
 This project was supervised by Dr. Ilia Markov and Gabriele Catanese. 
 
-A greater explanation of this procedure can be found in the thesis report [**Thesis**](https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/Andronikou_Konstantina_MA_Thesis.pdf)
+A greater explanation of this procedure can be found in the [**thesis report**](https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/Andronikou_Konstantina_MA_Thesis.pdf)
 
 ### FOLDERS 
 
@@ -21,10 +21,10 @@ This repository [**Andronikou_Konstantina_text_mining_thesis**](https://github.c
 * `readme.md` This readme includes information related to the pre-processing procedure.
 ## Topic Models 
 * `LDA.ipynb` This notebook carries out the training process of a Latent Dirichlet allocation (LDA) topic model.
-* `NMF.ipynb` This notebook carries out the training process of a Non-Negative Matrix Factorization (NMF)  topic model.
+* `NMF.ipynb` This notebook carries out the training process of a Non-Negative Matrix Factorization (NMF) topic model.
 * `BERTopic.ipynb` This notebook carries out the training process of BERTopic.
-* `create_embeddings.ipynb` For error analysis this project created an embedded space. This notebook carries out the process of creating an embedded space.
-* `error_analysis.ipynb` This note is responsible for the error analysis based on pairwise cosine similarity.
+* `create_embeddings.ipynb` For the error analysis this project created an embedded space. This notebook carries out the process of creating an embedded space.
+* `error_analysis.ipynb` This notebook is responsible for the error analysis based on pairwise cosine similarity.
 * `readme.md` This readme includes information related to the topic models and the error analysis.
 ## Prerequisites
 
