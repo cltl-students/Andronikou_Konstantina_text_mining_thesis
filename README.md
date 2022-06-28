@@ -7,7 +7,7 @@ This thesis project focuses on the implementation of automatic retrieval of topi
 
 This project was supervised by Dr. Ilia Markov and Gabriele Catanese. 
 
-A greater explanation of this procedure can be found the thesis report,
+A greater explanation of this procedure can be found in the thesis report [**Thesis**] (https://github.com/cltl-students/Andronikou_Konstantina_text_mining_thesis/blob/main/Andronikou_Konstantina_MA_Thesis.pdf)
 
 ### FOLDERS 
 
